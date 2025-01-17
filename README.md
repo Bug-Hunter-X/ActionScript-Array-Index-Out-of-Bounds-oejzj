@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript related to array indexing. ActionScript arrays are zero-indexed, meaning the first element is at index 0, the second at index 1, and so on. Attempting to access an element beyond the array's bounds leads to undefined behavior. The bug.as file shows the erroneous code, while bugSolution.as offers a corrected version.
